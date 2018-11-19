@@ -1,4 +1,7 @@
 # vue2.0-amap
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/AlfieriChou/vue2.0-amap.svg)](https://greenkeeper.io/)
+
 基于vue2.0高德地图的研究
 
 ## 最近一直在研究一些地图应用所以对这个高德地图（也就是amap）进行了研究
